@@ -8,7 +8,7 @@ import { iniciarSesion } from "../controllers/authController.js";
 const router = express.Router();
 
 /**
- * Ruta de autenticación (login)
+ * Ruta de autenticación del login
  */
 
 // Iniciar sesión
